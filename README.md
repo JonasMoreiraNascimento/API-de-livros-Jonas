@@ -1,5 +1,4 @@
-### Entrega M4 - API de livros
-Ao clonar, rode o comando npm install para instalar as dependências
+### API de livros
 
 Você poderá iniciar a aplicação rodando o comando:
 
